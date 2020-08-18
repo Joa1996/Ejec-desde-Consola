@@ -1,0 +1,8 @@
+Un IDE como neatbeans o Eclipse es una excelente herramienta para poder programar, sin embargo
+no es necsario para poder desarollar un Programa JAVA, en este ej. se muestra como con hasta el bloc d
+de notas podemos ejectar un simple programa JAVA, finalmente se puede apreciar para que sirve el arreglo
+que declaramos como parametro dentro del MAIN ( en este ej. lo usamos para pasarle valores desde consola)
+Antes de ejecutar hay que buscar la Ruta donde esta el JRE de JAva, luego crear una v. de entorno
+CLASSPATH con esa ruta y finalmente abrir el cmd donde vamos a trabajar. Creamos la clase con el bloc de 
+notas y la guardamos como un archivo .java con el comando "javac" compilamos ese archivo a bytecode y luego que se crea
+en la misma carpeta un archivo con la extencion .class lo ejecutamos con el comando "java"....
